@@ -1,13 +1,16 @@
-:warning: If you have problems to see the file ipnb, access the bellow link:
-https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/notebook.ipynb
+:warning: If you have problems to see the file ipynb, you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/notebook.ipynb).
 
-<br/>
 <br/>
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=Python&logoColor=sucess&message=jupyter&color=yellow&style=for-the-badge&logo=Python"/>
+</p>
+
+<p align="center">
 <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
 </p>
+
+<br/>
 
 > Project Status: In progress  :hourglass_flowing_sand:
 
