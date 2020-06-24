@@ -1,13 +1,21 @@
-# Classification Project with Deep Learning
 
-> Status do Projeto: Concluído
+Classification Project with Deep Learning
 
-## Descrição do Projeto
-Um estudo para desenvolvimento de um modelo de rede neural, com o objetivo de efetuar a classificação de peças de roupas contidas em figuras.
+<p aling="center">
+    <img src = >
+</p>
 
-## Pontos Relevantes
-* Adam algorithm : método utilizado para otimizar a acúracia do modelo (gradiente descendente estocástico)
-* Sparse Categorical Crossentropy : método utilizado para calcular o quanto o modelo deve buscar diminuir as perdas ( Categorical pois o dataset é categórico )
-* Underfitting e Overfitting : meios para verificar a ocorrência e a forma de evitar
-* Dropout : técnica utilizada de regularização que modifica a rede diretamente
-* Kernel Initializer : 
+> If you have problems to see the file ipnb, access the below link
+> https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/notebook.ipynb
+
+> Project Status: Completed
+
+## Project Description
+A study for the development of a neural network model, with the objective of classifying garments contained in figures.
+
+## Relevant Points
+* Adam algorithm: method used to optimize model accuracy (stochastic downward gradient)
+* Sparse Categorical Crossentropy: method used to calculate how much the model should seek to reduce losses (Categorical because the dataset is categorical)
+* Underfitting and Overfitting: means to verify the occurrence and how to avoid
+* Dropout: used regularization technique that directly modifies the network
+* Kernel Initializer:
