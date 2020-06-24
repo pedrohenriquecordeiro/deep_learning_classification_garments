@@ -1,6 +1,7 @@
-<p align="center">
-:warning: If you have problems to see the file ipynb, you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/notebook.ipynb).
-</p>
+<div align="center">
+If you have problems to see the file ipynb, 
+you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/notebook.ipynb).
+</div>
 
 <br/>
 
