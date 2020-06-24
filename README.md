@@ -10,18 +10,13 @@ you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecord
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
-</p>
 
 <br/>
 
 > Project Status: In progress  :hourglass_flowing_sand:
 
-<p aling="center">
-    <img src="https://user-images.githubusercontent.com/29979127/85621784-31eb0400-b63c-11ea-82ba-f591167f2441.png" width=400/>
-</p>
-
-<h2 align="center"> Classification Project with Deep Learning </h2>
-
+# Classification Project with Deep Learning 
+<img src="https://user-images.githubusercontent.com/29979127/85621784-31eb0400-b63c-11ea-82ba-f591167f2441.png" width=400/>
 
 ## Project Description
 <p align="justify"> 
