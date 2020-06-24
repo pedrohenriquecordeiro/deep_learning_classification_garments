@@ -4,12 +4,10 @@ you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecord
 
 <br/>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/static/v1?label=Python&logoColor=sucess&message=jupyter&color=yellow&style=for-the-badge&logo=Python"/>
-</p>
-
-<p align="center">
 <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+</p>
 
 <br/>
 
