@@ -16,9 +16,9 @@ you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecord
 
 > Project Status: In progress  :hourglass_flowing_sand:
 
-<div aling="center">
+<p aling="center">
     <img src="https://user-images.githubusercontent.com/29979127/85621784-31eb0400-b63c-11ea-82ba-f591167f2441.png" width=400/>
-</div>
+</p>
 
 <h2 align="center"> Classification Project with Deep Learning </h2>
 
