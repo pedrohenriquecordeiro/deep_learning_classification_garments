@@ -39,11 +39,11 @@ Enter into folder:
 ```
 > cd deep_learning_classification_garments
 ```
-Install the dependencies
+Install the dependencies:
 ```
 > pip install jupyter && pip install tensorflow && pip install matplotlib
 ```
-Start Jupyter Notebook 
+Start Jupyter Notebook:
 ```
 > jupyter notebook
 ```
