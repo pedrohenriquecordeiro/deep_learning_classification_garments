@@ -17,10 +17,10 @@ you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecord
 
 
 ## Relevant Points
-* Adam algorithm: method used to optimize model accuracy (stochastic downward gradient)
-* Sparse Categorical Crossentropy: method used to calculate how much the model should seek to reduce losses (Categorical because the dataset is categorical)
-* Underfitting and Overfitting: means to verify the occurrence and how to avoid
-* Dropout: used regularization technique that directly modifies the network
+:round_pushpin: Adam algorithm: method used to optimize model accuracy (stochastic downward gradient)
+:round_pushpin: Sparse Categorical Crossentropy: method used to calculate how much the model should seek to reduce losses (Categorical because the dataset is categorical)
+:round_pushpin: Underfitting and Overfitting: means to verify the occurrence and how to avoid
+:round_pushpin: Dropout: used regularization technique that directly modifies the network
 
 ## Dependencies
 - [Tensorflow](https://www.tensorflow.org/api_docs)
