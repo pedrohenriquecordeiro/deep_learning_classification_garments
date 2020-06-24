@@ -3,13 +3,9 @@ you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecord
 
 <br/>
 
-<p>
 <img src="https://img.shields.io/static/v1?label=Python&logoColor=sucess&message=jupyter&color=yellow&style=for-the-badge&logo=Python"/>
 <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
-</p>
-
-<br/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20IN PROGRESS ...&color=RED&style=for-the-badge"/>
 
 # Classification Project with Deep Learning 
 <img src="https://user-images.githubusercontent.com/29979127/85621784-31eb0400-b63c-11ea-82ba-f591167f2441.png" width=400/>
