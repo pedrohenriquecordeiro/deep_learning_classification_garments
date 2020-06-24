@@ -1,13 +1,13 @@
 If you have problems to see the file ipnb, access the bellow link:
 https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/notebook.ipynb
 
-# Classification Project with Deep Learning 
+> Project Status: In progress
+
+## Classification Project with Deep Learning 
 
 <p aling="center">
     <img src = "https://github.com/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/imgs/brain.png" width = 300/>
 </p>
-
-> Project Status: Completed
 
 ## Project Description
 A study for the development of a neural network model, with the objective of classifying garments contained in figures.
