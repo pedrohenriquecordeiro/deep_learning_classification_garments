@@ -1,14 +1,3 @@
-<style>
-img
-{
-    display:block; 
-    float:none; 
-    margin-left:auto;
-    margin-right:auto;
-    width:60%;
-}
-</style> 
-
 If you have problems to see the file ipynb, 
 you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/notebook.ipynb).
 
