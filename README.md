@@ -9,7 +9,7 @@ https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/deep_learning_classifi
 
 <h2 align="center"> Classification Project with Deep Learning </h1>
 
-<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+<img src="https://img.shields.io/static/v1?label=Python 3.7&message=Language&color=blue&style=for-the-badge&logo=PYTHON"/>
 
 ## Project Description
 <p align="justify"> 
