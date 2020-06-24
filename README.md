@@ -1,12 +1,11 @@
+If you have problems to see the file ipnb, access the bellow link:
+https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/notebook.ipynb
 
-Classification Project with Deep Learning
+# Classification Project with Deep Learning 
 
 <p aling="center">
-    <img src = >
+    <img src = "https://github.com/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/imgs/brain.png" width = 300/>
 </p>
-
-> If you have problems to see the file ipnb, access the below link
-> https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/notebook.ipynb
 
 > Project Status: Completed
 
