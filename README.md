@@ -1,7 +1,7 @@
-<div align="center">
+
 If you have problems to see the file ipynb, 
 you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/notebook.ipynb).
-</div>
+
 
 <br/>
 
@@ -56,9 +56,9 @@ Install the dependencies
 ```
 Start Jupyter Notebook 
 ```
- > jupyter notebook
+> jupyter notebook
 ```
-Open this notebook in by Jupyter Notebook.
+Open this notebook by Jupyter Notebook.
 
 
 
