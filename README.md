@@ -1,10 +1,10 @@
 :warning: If you have problems to see the file ipynb, 
-you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/notebook.ipynb).
+you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/notebook.ipynb) :warning:
 
 <br/>
 
-<img src="https://img.shields.io/static/v1?label=Python&logoColor=sucess&message=jupyter&color=yellow&style=for-the-badge&logo=Python"/>
 <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?label=Python&logoColor=sucess&message=jupyter&color=yellow&style=for-the-badge&logo=Python"/>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=IN%20PROGRESS&color=RED&style=for-the-badge"/>
 
 # Classification Project with Deep Learning 
