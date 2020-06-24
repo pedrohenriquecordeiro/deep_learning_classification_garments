@@ -1,16 +1,18 @@
-:heavy_exclamation_mark: If you have problems to see the file ipnb, access the bellow link:
+:warning: If you have problems to see the file ipnb, access the bellow link:
 https://nbviewer.jupyter.org/github/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/notebook.ipynb
 
+<br/>
+<br/>
+
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=Python&logoColor=sucess&message=jupyter&color=yellow&style=for-the-badge&logo=Python
-"/>
+<img src="https://img.shields.io/static/v1?label=Python&logoColor=sucess&message=jupyter&color=yellow&style=for-the-badge&logo=Python"/>
 <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
 </p>
 
 > Project Status: In progress  :hourglass_flowing_sand:
 
 <p aling="center">
-    <img src = "https://github.com/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/imgs/sample.png" width = 400/>
+    <img src="https://github.com/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/imgs/sample.png" width=400/>
 </p>
 
 <h2 align="center"> Classification Project with Deep Learning </h2>
