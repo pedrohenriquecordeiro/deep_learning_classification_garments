@@ -17,9 +17,9 @@ you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecord
 
 > Project Status: In progress  :hourglass_flowing_sand:
 
-<p aling="center">
+<div aling="center">
     <img src="https://github.com/pedrohenriquecordeiro/deep_learning_classification_garments/blob/master/imgs/sample.png" width=400/>
-</p>
+</div>
 
 <h2 align="center"> Classification Project with Deep Learning </h2>
 
