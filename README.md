@@ -25,6 +25,8 @@ you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecord
 
 :round_pushpin: Dropout: used regularization technique that directly modifies the network
 
+:round_pushpin: Learning Rate: testing how important the learning rate is in training the model
+
 ## Dependencies
 - [Tensorflow](https://www.tensorflow.org/api_docs)
 - [Jupyter Notebook](https://jupyter.org/)
