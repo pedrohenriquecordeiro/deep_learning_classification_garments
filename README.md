@@ -17,7 +17,7 @@ you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecord
 
 
 ## Relevant Points
-:round_pushpin: Adam algorithm: method used to optimize model accuracy (stochastic downward gradient)
+:round_pushpin: Adam Algorithm: method used to optimize model accuracy (stochastic downward gradient)
 
 :round_pushpin: Sparse Categorical Crossentropy: method used to calculate how much the model should seek to reduce losses (Categorical because the dataset is categorical)
 
@@ -26,6 +26,8 @@ you can view in [NBViewer](https://nbviewer.jupyter.org/github/pedrohenriquecord
 :round_pushpin: Dropout: used regularization technique that directly modifies the network
 
 :round_pushpin: Learning Rate: testing how important the learning rate is in training the model
+
+:round_pushpin: Callback: to supervise model training and create checkpoints
 
 ## Dependencies
 - [Tensorflow](https://www.tensorflow.org/api_docs)
